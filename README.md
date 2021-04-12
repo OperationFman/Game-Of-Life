@@ -1,5 +1,5 @@
 # Context
- According to Wikipedia's article: "The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970."
+The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.
 
 
 > 1. Any live cell with fewer than two live neighbors dies as if caused by under-population.
