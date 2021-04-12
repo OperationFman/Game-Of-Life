@@ -14,8 +14,10 @@
 * Open the file directory where you saved it
 * Install NodeJS found here: https://nodejs.org/en/
 * Open a terminal/cmd/powershell and install http-server with this line of code:
+
     `npm install -g http-server`
 * Run the server with:
+
     `http-server` 
 
 To edit, open sketch.js
