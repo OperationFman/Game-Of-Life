@@ -1,4 +1,4 @@
-# Game-Of-Life
+# Context
  According to Wikipedia's article: "The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970."
 
 
@@ -9,7 +9,18 @@
 
 
 
+## Installation
+* Clone or downbload this repo
+* Open the file directory
+* Install NodeJS found here: https://nodejs.org/en/
+* Open a terminal/cmd/powershell and install http-server with this line of code `npm install -g http-server`
+* Run the server with `http-server` 
+
+To edit, open sketch.js
+
+
 
 # Tech Stack
 * Javascript
+* Node http-server
 * P5.js, found here: https://p5js.org/
