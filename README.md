@@ -8,6 +8,8 @@
 > 4. Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
 
 
+
+
 # Tech Stack
 * Javascript
 * P5.js, found here: https://p5js.org/
