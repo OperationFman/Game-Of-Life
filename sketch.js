@@ -1,7 +1,7 @@
 let grid;
 let cols;
 let rows;
-let resolution = 5;
+let resolution = 40;
 
 function make2DArray(cols, rows) {
     let arr = new Array(cols);
@@ -12,7 +12,7 @@ function make2DArray(cols, rows) {
   }
   
   function setup() {
-    createCanvas(2000, 2000);
+    createCanvas(600, 400);
     cols = width / resolution;
     rows = height / resolution;
   
