@@ -2,6 +2,11 @@
 The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.
 
 
+You can paste and run the code found in the file 'sketch.js' here:
+https://editor.p5js.org/
+and see the result without installing anything.
+
+
 > 1. Any live cell with fewer than two live neighbors dies as if caused by under-population.
 > 2. Any live cell with two or three live neighbors lives on to the next generation.
 > 3. Any live cell with more than three live neighbors dies, as if by over-population.
